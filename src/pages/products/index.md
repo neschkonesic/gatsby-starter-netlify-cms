@@ -94,4 +94,9 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: ??
+    - plan: "1"
+      description: "1"
+      items:
+        - "1"
+      price: "1"
 ---
